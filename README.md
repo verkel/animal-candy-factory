@@ -1,4 +1,4 @@
-# Erinomaiset Eläinnamit Ky — Awesome Animal Candy Factory)
+# Erinomaiset Eläinnamit Ky — Awesome Animal Candy Factory
 
 *Featured at Assembly 2022*
 
