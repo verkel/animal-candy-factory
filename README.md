@@ -4,6 +4,8 @@
 
 **Update to version 0.2.0 is now available!**
 
+<h1><b><a href="https://github.com/verkel/animal-candy-factory/releases/download/v0.2.0/AwesomeAnimalCandyFactory-0.2.0.zip">Download v0.2.0 here!</a></b></h1>
+
 ## What's new
 The version shown on Assembly 2022 Big Screen. Lots of improvements!
 
@@ -13,5 +15,3 @@ The version shown on Assembly 2022 Big Screen. Lots of improvements!
 - Display animals active in a level in the info monitor
 
 ![Screenshot](/GithubScreenshot-0.2.0.jpg)
-
-<h1><b><a href="https://github.com/verkel/animal-candy-factory/releases/download/v0.2.0/AwesomeAnimalCandyFactory-0.2.0.zip">Download v0.2.0 here!</a></b></h1>
