@@ -2,6 +2,16 @@
 
 *Featured at Assembly 2022*
 
-**No update is available yet!**
+**Update to version 0.2.0 is now available!**
 
-Check back for updated version when Assembly 2022 has started!
+## What's new
+The version shown on Assembly 2022 Big Screen. Lots of improvements!
+
+- Added two new difficulties with 7 levels each
+- Polished the level graphics
+- Added sound effects and more music
+- Display animals active in a level in the info monitor
+
+![Screenshot](/GithubScreenshot-0.2.0.jpg)
+
+<h1><b><a href="https://github.com/verkel/animal-candy-factory/releases/download/v0.2.0/AwesomeAnimalCandyFactory-0.2.0.zip">Download v0.2.0 here!</a></b></h1>
