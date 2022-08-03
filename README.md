@@ -1,6 +1,6 @@
 # Erinomaiset Eläinnamit Ky — Awesome Animal Candy Factory
 
-*Featured at Assembly 2022*
+*Featured at [Assembly 2022](https://party.assembly.org/summer22/news/game-development-entries-released)*
 
 **New version 0.2.0 is now available!**
 
