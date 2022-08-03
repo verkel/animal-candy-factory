@@ -2,7 +2,7 @@
 
 *Featured at Assembly 2022*
 
-**Update to version 0.2.0 is now available!**
+**New version 0.2.0 is now available!**
 
 <h1><b><a href="https://github.com/verkel/animal-candy-factory/releases/download/v0.2.0/AwesomeAnimalCandyFactory-0.2.0.zip">Download v0.2.0 here!</a></b></h1>
 
